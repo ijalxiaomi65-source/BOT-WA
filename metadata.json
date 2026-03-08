@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp AI Bot",
+  "description": "A fully functional WhatsApp AI bot using Baileys and Gemini AI with Pairing Code connection.",
+  "requestFramePermissions": []
+}
